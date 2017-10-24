@@ -1,7 +1,7 @@
 {
 	"host": "localhost",
-	"port": 3000,
-	"webHost": "http://localhost:3000",
+	"port": 4100,
+	"webHost": "http://localhost:4100",
 	"dbURI": "mongodb://localhost/meanstack2",
 	"timezone": "Asia/Kathmandu"
 }
