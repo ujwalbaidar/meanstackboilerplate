@@ -3,7 +3,8 @@
 Tools Used:
  * Node.js
  * Angular
- * Mongodb (Not necessary)
+ * Mongodb
+ * Typescript
 
 Installation and run
 * Install packages with "npm install"
