@@ -19,7 +19,7 @@ module.exports = function(app){
         next();
     });
 
-    app.set('views', rootPath + 'public');
+    app.set('views', rootPath + 'dist');
     app.engine('html', require('ejs').renderFile);
     app.set('view engine', 'html');
 }
